@@ -1,5 +1,5 @@
 # Projets avec qui j'ai ou je travail:
-- AstroSky (Gestion ItesmAdder à temps plein)
+- AstroSky (Gestion ItesmAdder à temps plein) (1 an)
 
 # Mes créations 3D
 <img width="375" height="375" alt="coeur" src="https://github.com/user-attachments/assets/638ea040-422f-4c74-9347-c3161dc3ee73" />
