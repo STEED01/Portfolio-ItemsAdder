@@ -19,6 +19,9 @@
 <img width="348" height="348" alt="spawner_lunaire1" src="https://github.com/user-attachments/assets/7223ad74-0d48-41c9-9d64-a83e042baf00" />
 <img width="322" height="322" alt="spawner_lunaire2" src="https://github.com/user-attachments/assets/60aff63c-493e-459b-bd75-f768c1b37922" />
 <img width="322" height="322" alt="spawner_lunaire3" src="https://github.com/user-attachments/assets/48d03f4a-92b8-4b54-95d4-7b133f3d0651" />
+<img width="588" height="590" alt="caisse" src="https://github.com/user-attachments/assets/81282834-2174-449d-b5b4-e5fe16d5c76b" />
+<img width="817" height="684" alt="hopperdirections" src="https://github.com/user-attachments/assets/3f48f57f-5c9b-45d8-84e8-50d40141ea05" />
+<img width="800" height="567" alt="lootboxsign" src="https://github.com/user-attachments/assets/40f6b2b5-6f24-4f99-9ae8-f3777c29cc80" />
 
 
 
