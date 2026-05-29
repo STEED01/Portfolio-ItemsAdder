@@ -19,9 +19,11 @@
 <img width="348" height="348" alt="spawner_lunaire1" src="https://github.com/user-attachments/assets/7223ad74-0d48-41c9-9d64-a83e042baf00" />
 <img width="322" height="322" alt="spawner_lunaire2" src="https://github.com/user-attachments/assets/60aff63c-493e-459b-bd75-f768c1b37922" />
 <img width="322" height="322" alt="spawner_lunaire3" src="https://github.com/user-attachments/assets/48d03f4a-92b8-4b54-95d4-7b133f3d0651" />
-<img width="588" height="590" alt="caisse" src="https://github.com/user-attachments/assets/81282834-2174-449d-b5b4-e5fe16d5c76b" />
-<img width="817" height="684" alt="hopperdirections" src="https://github.com/user-attachments/assets/3f48f57f-5c9b-45d8-84e8-50d40141ea05" />
-<img width="800" height="567" alt="lootboxsign" src="https://github.com/user-attachments/assets/40f6b2b5-6f24-4f99-9ae8-f3777c29cc80" />
+<img width="214" height="211" alt="caisse" src="https://github.com/user-attachments/assets/2539d5bd-c6e2-4d80-924b-79bc2c278a3a" />
+<img width="467" height="428" alt="hopperdirections" src="https://github.com/user-attachments/assets/95980249-8591-45f2-bd3f-b2187605daac" />
+<img width="307" height="224" alt="lootboxsign" src="https://github.com/user-attachments/assets/a13b62e6-0b7e-4eab-9911-a2d9c6532562" />
+<img width="190" height="305" alt="pilier" src="https://github.com/user-attachments/assets/39c64ecb-23c5-4e53-a11d-c742b69abd6c" />
+<img width="226" height="295" alt="pinboard" src="https://github.com/user-attachments/assets/3db18209-de45-4991-adc7-c2eb803bd07f" />
 
 
 
